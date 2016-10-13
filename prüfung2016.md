@@ -25,3 +25,8 @@ Ein minimaler Spannbaum ist
 * g = Ο(f) <=> f ∈ Ω(g)
 * g = Θ(f) <=> f ∈ Ω(g) ∧ g ∈ Ω(f)
 
+# Aufgabe 3
+
+# Aufgabe 4
+a)
+b) Θ(n*log(n))
