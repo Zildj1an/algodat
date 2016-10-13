@@ -9,4 +9,6 @@ Ein minimaler Spannbaum ist
 * ein Teilgraph mit minimalem Gewicht unter denen, die alle Punkte verbinden
 
 # Aufgabe 2
+* (n!)! = ω(log(n))
+* sqrt(n) ∈ Ω(log(n))
 
