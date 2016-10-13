@@ -11,4 +11,5 @@ Ein minimaler Spannbaum ist
 # Aufgabe 2
 * (n!)! = ω(log(n))
 * sqrt(n) ∈ Ω(log(n))
+* 2*2^n = Ο(n^n)
 
