@@ -12,4 +12,7 @@ Ein minimaler Spannbaum ist
 * (n!)! = ω(log(n))
 * sqrt(n) ∈ Ω(log(n))
 * 2*2^n = Ο(n^n)
+* (n+3)^2 = ω(n^2 +9)
+* g = Ο(f) <=> f ∈ Ω(g)
+* g = Θ(f) <=> f ∈ Ω(g) ⌃ g ∈ Ω(f)
 
