@@ -6,7 +6,7 @@ Der Floyd-Warshall-Algorithmus bestimmt
 * Matrix der kürzesten Wege in Ο(n^3)
 
 Der Median der Mediane wurde in der Vorlesung verwendet, um in linearer Zeit folgendes zu bestimmen:
-* ??
+* Bestes Pivotelement für eine Hashtabelle
 
 Eine Hashtabelle mit Kollisionsauflösung durch Verkettung mit n Elementen braucht für die Suche nach einem Eintrag im Worst-Case
 * ??
