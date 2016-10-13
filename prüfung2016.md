@@ -28,5 +28,7 @@ Ein minimaler Spannbaum ist
 # Aufgabe 3
 
 # Aufgabe 4
-a)
-b) Θ(n*log(n))
+## a)
+
+## b)
+Θ(n*log(n))
