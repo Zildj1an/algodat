@@ -1,0 +1,2 @@
+# algodat
+Algorithmen und Datenstrukturen
